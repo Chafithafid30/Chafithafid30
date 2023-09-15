@@ -1,8 +1,8 @@
-<h3 align="center">A passionate backend developer and data analyst from Indonesia</h3>
+<h3 align="center">A passionate Backend Developer and Data Analyst from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chafithafid30&label=Profile%20views&color=0e75b6&style=flat" alt="chafithafid30" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst, Data Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Projects**
 
