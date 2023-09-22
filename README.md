@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mochammadnafisachafith/](https://www.linkedin.com/in/mochammadnafisachafith/)
 
-- ⚡ Fun fact **I think I'm Humorist! ^_^**
+- ⚡ Fun fact **I'm Humorist! ^_^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
