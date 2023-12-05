@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mnchafith30@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mochammadnafisachafith/](https://www.linkedin.com/in/mochammadnafisachafith/)
+- 📄 Know about my profiles [https://www.linkedin.com/in/mochammadnafisachafith/](https://www.linkedin.com/in/mochammadnafisachafith/)
 
 - ⚡ Fun fact **I'm Humorist! ^_^**
 
