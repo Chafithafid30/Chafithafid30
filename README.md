@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chafithafid30&label=Profile%20views&color=0e75b6&style=flat" alt="chafithafid30" /> </p>
 
-- 🌱 I’m currently mastering **Backend Engineering**
+- 🌱 I’m currently mastering **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Projects**
 
