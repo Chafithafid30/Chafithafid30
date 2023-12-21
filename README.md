@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chafithafid30&show_icons=true&locale=en&layout=compact" alt="chafithafid30" /></p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31kbei2tl6wlsqerbamuxr2jarui&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31kbei2tl6wlsqerbamuxr2jarui&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+a href = "https://spotify-github-profile.vercel.app/api/view.svg?uid=31kbei2tl6wlsqerbamuxr2jarui&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31kbei2tl6wlsqerbamuxr2jarui&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" /> </a>
