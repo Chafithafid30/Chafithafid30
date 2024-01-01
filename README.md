@@ -43,7 +43,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://linkedin.com/in/mochammadnafisachafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammadnafisachafith" height="30" width="40" /></a>
 <a href="https://kaggle.com/chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chafith" height="30" width="40" /></a>
 <a href="https://instagram.com/mochammad.chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mochammad.chafith" height="30" width="40" /></a>
-<a href="https://medium.com/mochammadchafith30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mochammadchafith30" height="30" width="40" /></a>
+<a href="https://medium.com/@mochammadchafith30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mochammadchafith30" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pahamprogramming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pahamprogramming" height="30" width="40" /></a>
 </p>
 
