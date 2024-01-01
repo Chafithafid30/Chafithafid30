@@ -38,14 +38,19 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br/>
 
+<br/>
+<br/>
 #
 
-### 📊 Stats
+### ✉️ Connect With Me
 
-![Chafithafid30's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chafithafid30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<br/>
-<br/>
-![Chafithafid30's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chafithafid30&theme=vue-dark&hide_border=true)
+<p align="left">
+<a href="https://linkedin.com/in/mochammadnafisachafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammadnafisachafith" height="30" width="40" /></a>
+<a href="https://kaggle.com/chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chafith" height="30" width="40" /></a>
+<a href="https://instagram.com/mochammad.chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mochammad.chafith" height="30" width="40" /></a>
+<a href="https://medium.com/mochammadchafith30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mochammadchafith30" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pahamprogramming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pahamprogramming" height="30" width="40" /></a>
+</p>
 
 #
 
