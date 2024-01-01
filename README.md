@@ -39,6 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
+
 ### ✉️ Connect With Me
 
 <p align="left">
