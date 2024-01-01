@@ -65,4 +65,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![Chafithafid30's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chafithafid30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br/>
+<br/>
 ![Chafithafid30's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chafithafid30&theme=vue-dark&hide_border=true)
