@@ -63,5 +63,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chafithafid30&show_icons=true&locale=en&layout=compact" alt="chafithafid30" /></p>
-<p>[![Chafith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chafithafid30)](https://github.com/Chafithafid30/github-readme-stats)</p>
+![Chafithafid30's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chafithafid30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Chafithafid30's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chafithafid30&theme=vue-dark&hide_border=true)
