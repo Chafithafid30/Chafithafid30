@@ -38,3 +38,19 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />       
 <br />
+
+### ✉️ Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mochammadnafisachafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammadnafisachafith" height="30" width="40" /></a>
+<a href="https://kaggle.com/chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chafith" height="30" width="40" /></a>
+<a href="https://instagram.com/mochammad.chafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mochammad.chafith" height="30" width="40" /></a>
+<a href="https://medium.com/mochammadchafith30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mochammadchafith30" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pahamprogramming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pahamprogramming" height="30" width="40" /></a>
+</p>
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   As a naive computer science student, I started my coding journey with enthusiasm to understand all aspects of the world of programming, including code, Unix, Linux, and related theories. Although initially interested in Android development, my desire to master Java soon emerged. My determination is strong in facing the challenges of learning to code, utilizing online resources, books and community forums. Android application development became my first step, bringing satisfaction through bug fixes and feature additions. The deeper my understanding of Android, the greater my desire to learn Java. I diligently explore documentation, read source code, and get involved in small projects. My vision evolved, leading to the dream of becoming a full-stack software engineer. With a focus on back-end, front-end, Linux, and Unix concepts, each completed project brings me closer to that goal. Even though it is full of challenges, my enthusiasm for learning remains bright, ready to overcome the obstacles ahead. My goal is not only to become a skilled developer, but also an individual who makes a positive impact through coding skills. With determination and passion, I continued on this coding journey, confident that every line of code brought me closer to realizing my dreams.
