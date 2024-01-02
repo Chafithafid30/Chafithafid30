@@ -149,5 +149,4 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### 🐍 Kadut Snake
-<br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
