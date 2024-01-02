@@ -6,7 +6,7 @@ I'm a full-stack developer and indie content creator building my version of the 
 
 ### 🧰 Languages and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
@@ -126,7 +126,9 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 #
 
