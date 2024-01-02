@@ -123,3 +123,9 @@ I'm a full-stack developer and indie content creator building my version of the 
 ### 🎶 Spotify Recently Played
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kbei2tl6wlsqerbamuxr2jarui&unique={true|1|on|yes})
+
+#
+
+### 🧔👩 Number of visitors
+
+[![](https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=1)](https://visitcount.itsvg.in)
