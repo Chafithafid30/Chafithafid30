@@ -143,5 +143,5 @@ I'm a full-stack developer and indie content creator building my version of the 
 
 ### 🧔👩 Number of visitors
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=1)](https://visitcount.itsvg.in)" />
+  <img src=("https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=1)](https://visitcount.itsvg.in))" />
 </div>
