@@ -7,13 +7,13 @@ I'm a full-stack developer and indie content creator building my version of the 
 ### 🧰 Languages and Tools
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,15 +43,17 @@ I'm a full-stack developer and indie content creator building my version of the 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
   <img width="12" />
@@ -59,13 +61,19 @@ I'm a full-stack developer and indie content creator building my version of the 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
 </div>
 
 #
@@ -94,10 +102,10 @@ I'm a full-stack developer and indie content creator building my version of the 
 
 ### 📊 Stats
 
-![Chafithafid30's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chafithafid30&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<br/>
-<br/>
-![Chafithafid30's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chafithafid30&theme=vue-dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chafithafid30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Chafithafid30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 #
 ### 👨‍💻 Chafith's Coding Journey
@@ -106,7 +114,9 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chafithafid30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Chafithafid30&theme=monokai&column=7&row=1&margin-w=18&margin-h=18&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 #
 
