@@ -142,6 +142,4 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### 🧔👩 Number of visitors
-<div style="text-align: center;">
-   [![](https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=0)](https://visitcount.itsvg.in)
