@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mochammad Nafisa Chafith
+### 🏄‍♂️ Mochammad Nafisa Chafith
 
 **`Digital Craftsman (Developer/Writer/Creator)`**
 
@@ -100,8 +100,11 @@ I'm a full-stack developer and indie content creator building my version of the 
 ![Chafithafid30's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chafithafid30&theme=vue-dark&hide_border=true)
 
 #
+<details>
+ <summary><h3>👨‍💻 Chafith's Coding Journey</h3></summary>
+   As a naive computer science student, I started my coding journey with enthusiasm to understand all aspects of the world of programming, including code, Unix, Linux, and related theories. Although initially interested in Android development, my desire to master Java soon emerged. My determination is strong in facing the challenges of learning to code, utilizing online resources, books and community forums. Android application development became my first step, bringing satisfaction through bug fixes and feature additions. The deeper my understanding of Android, the greater my desire to learn Java. I diligently explore documentation, read source code, and get involved in small projects. My vision evolved, leading to the dream of becoming a full-stack software engineer. With a focus on back-end, front-end, Linux, and Unix concepts, each completed project brings me closer to that goal. Even though it is full of challenges, my enthusiasm for learning remains bright, ready to overcome the obstacles ahead. My goal is not only to become a skilled developer, but also an individual who makes a positive impact through coding skills. With determination and passion, I continued on this coding journey, confident that every line of code brought me closer to realizing my dreams.
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chafithafid30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 #
@@ -116,8 +119,6 @@ I'm a full-stack developer and indie content creator building my version of the 
 
 #
 
-<details>
- <summary><h3>👨‍💻 Chafith's Coding Journey</h3></summary>
-   As a naive computer science student, I started my coding journey with enthusiasm to understand all aspects of the world of programming, including code, Unix, Linux, and related theories. Although initially interested in Android development, my desire to master Java soon emerged. My determination is strong in facing the challenges of learning to code, utilizing online resources, books and community forums. Android application development became my first step, bringing satisfaction through bug fixes and feature additions. The deeper my understanding of Android, the greater my desire to learn Java. I diligently explore documentation, read source code, and get involved in small projects. My vision evolved, leading to the dream of becoming a full-stack software engineer. With a focus on back-end, front-end, Linux, and Unix concepts, each completed project brings me closer to that goal. Even though it is full of challenges, my enthusiasm for learning remains bright, ready to overcome the obstacles ahead. My goal is not only to become a skilled developer, but also an individual who makes a positive impact through coding skills. With determination and passion, I continued on this coding journey, confident that every line of code brought me closer to realizing my dreams.
+### 🎶 Spotify Recently Played
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kbei2tl6wlsqerbamuxr2jarui&unique={true|1|on|yes})
