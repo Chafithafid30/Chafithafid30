@@ -121,7 +121,9 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 #
 
@@ -133,11 +135,13 @@ I'm a full-stack developer and indie content creator building my version of the 
 #
 
 ### 🎶 Spotify Recently Played
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kbei2tl6wlsqerbamuxr2jarui&unique={true|1|on|yes})
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kbei2tl6wlsqerbamuxr2jarui&unique={true|1|on|yes}" />
+</div>
 
 #
 
 ### 🧔👩 Number of visitors
-
-[![](https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=1)](https://visitcount.itsvg.in)" />
+</div>
