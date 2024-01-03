@@ -141,6 +141,6 @@ I am a full-stack developer building my version of the digital world step by ste
 
 #
 
-### 🐍 Kadut Snake
+### 🐍 Nokia's Snake
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
