@@ -141,11 +141,6 @@ I am a full-stack developer building my version of the digital world step by ste
 
 #
 
-### 🧔👩 Number of visitors
-[![](https://visitcount.itsvg.in/api?id=Chafithafid30&icon=0&color=0)](https://visitcount.itsvg.in)
-
-#
-
 ### 🐍 Kadut Snake
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
