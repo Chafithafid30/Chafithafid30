@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Writer/Creator)`**
 
-I'm a full-stack developer and indie content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. All content, both video and written, is created in the same way, from ideas and planning to finishing the content with an artistic touch. I published that content on my YouTube channel "[PahamProgramming] [youtube]" and Medium Account "[@mochammadchafith30] [medium]".
+I am a full-stack developer building my version of the digital world step by step. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. All content, both video and written, is created in the same way, from ideas and planning to finishing the content with an artistic touch. I published that content on my YouTube channel "[PahamProgramming] [youtube]" and Medium Account "[@mochammadchafith30] [medium]".
 
 ### 🧰 Languages and Tools
 
