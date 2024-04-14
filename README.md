@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Writer/Creator)`**
 
-I am a Informatics Engineering Student at Brawijaya University, Indonesia. Building my version of the digital world step by step. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. All content, both video and written, is created in the same way, from ideas and planning to finishing the content with an artistic touch. I published that content on my YouTube channel "[PahamProgramming] [youtube]" and Medium Account "[@mochammadchafith30] [medium]".
+Every Code, Every Algorithm, and Every Programming Logic has a part in the story. I have contributed to the narrative of the whole application.
 
 ### 🧰 Languages and Tools
 
