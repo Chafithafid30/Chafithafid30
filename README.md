@@ -1,6 +1,6 @@
 ### 🏄‍♂️ Mochammad Nafisa Chafith
 
-**`Digital Craftsman (Developer/Writer/Programmer)`**
+**`Digital Craftsman (Developer/Engineer/Writer/Programmer)`**
 
 Every Code, Every Algorithm, and Every Programming Logic has a part in the story. I have contributed to the narrative of the whole application.
 
