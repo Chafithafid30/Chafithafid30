@@ -51,8 +51,6 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
@@ -116,13 +114,10 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-### 🎶 Spotify Recently Played
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kbei2tl6wlsqerbamuxr2jarui&unique={true|1|on|yes}" />
-</div>
-
 #
 
 ### 🐍 Nokia's Snake
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
+
+#
