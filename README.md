@@ -112,18 +112,18 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 #
 
 
-<br clear="both">
+
 ###
 ### 🥠 Pacmann Academy
+<br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
 
 ### 🐍 Nokia's Snake
+<br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
-
 ###
