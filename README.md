@@ -111,9 +111,6 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-
-
-
 ### 🥠 Pacmann Eating Institute
 <br clear="both">
 <picture>
@@ -122,7 +119,10 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph.svg">
 </picture>
 
+#
 
 ### 🐍 Debug's Snake
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
+
+#
