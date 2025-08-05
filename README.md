@@ -111,12 +111,6 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
-#
 
 #
 
@@ -126,9 +120,12 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/pacman-contribution-graph.svg">
 </picture>
 
+###
