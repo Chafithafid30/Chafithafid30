@@ -112,13 +112,11 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 #
 
 
-#
+###
 
-### 🐍 Nokia's Snake
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
 
-#
+<img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
 
 ###
 
