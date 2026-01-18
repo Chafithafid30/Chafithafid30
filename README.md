@@ -55,7 +55,7 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
-#
+
 
 ### ✉️ Connect With Me
 
@@ -79,14 +79,6 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chafithafid30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Chafithafid30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-#
 ### 👨‍💻 Chafith's Coding Journey
    As a naive Software Engineer, I started my coding journey with enthusiasm to understand all aspects of the world of programming, including clean code, Unix, Linux, and related theories. Although initially interested in Android development, my desire to master Java soon emerged. My determination is strong in facing the challenges of learning to code, utilizing online resources, books and community forums. Android application development became my first step, bringing satisfaction through bug fixes and feature additions. The deeper my understanding of Android, the greater my desire to learn Java. I diligently explore documentation, read source code, and get involved in small projects. My vision evolved, leading to the dream of becoming a full-stack software engineer. With a focus on back-end, front-end, Linux, and Unix concepts, each completed project brings me closer to that goal. Even though it is full of challenges, my enthusiasm for learning remains bright, ready to overcome the obstacles ahead. My goal is not only to become a skilled developer, but also an individual who makes a positive impact through coding skills. With determination and passion, I continued on this coding journey, confident that every line of code brought me closer to realizing my dreams.
 
