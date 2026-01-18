@@ -55,7 +55,7 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img width="12" />
   <!-- Rancher sejajar -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg"
-       height="40"
+       height="50"
        style="vertical-align:middle;"
        alt="Rancher" />
   <img width="12" />
