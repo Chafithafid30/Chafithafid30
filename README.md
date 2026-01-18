@@ -84,13 +84,6 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Chafithafid30&theme=monokai&column=10&row=1&margin-w=18&margin-h=18&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-#
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
