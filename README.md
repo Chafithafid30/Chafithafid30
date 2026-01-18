@@ -51,11 +51,11 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original-wordmark.svg" width="50" alt="Harbor" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original-wordmark.svg" width="40" alt="Harbor" />        
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" width="50" alt="Rancher" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" width="40" alt="Rancher" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
