@@ -56,6 +56,7 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
 </div>
 
 
