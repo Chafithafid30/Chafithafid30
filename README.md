@@ -79,7 +79,7 @@ Every Code, Every Algorithm, and Every Programming Logic has a part in the story
 
 #
 
-### 👨‍💻 Chafith's Coding Journey
+### 👨‍💻 Chafith’s Engineering Journey
   I’m a Software Engineer building and learning across backend development, enterprise systems, system integration, cloud, and DevOps. I enjoy turning complex requirements into reliable solutions, solving production problems, and exploring better ways to design, integrate, and deliver software.
 
 This GitHub is where I build, experiment, learn, and share—one project at a time.
