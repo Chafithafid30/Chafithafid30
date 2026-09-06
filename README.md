@@ -90,7 +90,7 @@ This GitHub is where I build, experiment, learn, and share—one project at a ti
 
 #
 
-### 🐍 Debug's Snake
+### 🐍 Nokia Game's Snake
 <img src="https://raw.githubusercontent.com/Chafithafid30/Chafithafid30/output/snake.svg" alt="Snake animation" />
 
 ###
